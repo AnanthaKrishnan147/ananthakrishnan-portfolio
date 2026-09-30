@@ -4,3 +4,4 @@ venv/
 .venv/
 *.pyc
 .DS_Store
+.env.example
